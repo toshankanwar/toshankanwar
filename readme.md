@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year student at IIIT Naya Raipur, pursuing B.Tech in Data Science and Artificial Intelligance.
+I am a Final year student at IIIT Naya Raipur, pursuing B.Tech in Data Science and Artificial Intelligance.
 
 Web Development, Machine Learning and Deep Learning, Data Science are my domains of interest. I am a passionate learner, with good problem-solving abilities.
 

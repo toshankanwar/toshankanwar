@@ -189,9 +189,7 @@ email: contact@toshankanwar.in
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshankanwar&theme=dracula" width="32%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshankanwar&theme=dracula" width="32%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshankanwar&theme=dracula" width="32%" alt="Most Commit Language" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=toshankanwar&show_icons=true&theme=dracula&hide_border=true&border_radius=15&bg_color=0d1117&title_color=BD93F9&icon_color=FF79C6&text_color=f8f8f2&ring_color=BD93F9&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&custom_title=Achievements" height="180" alt="achievements graph" />
 </div>
 
 <br/>
@@ -279,20 +277,6 @@ email: contact@toshankanwar.in
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg" width="100%" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshankanwar&theme=dracula" width="100%" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshankanwar&theme=dracula" width="32%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshankanwar&theme=dracula" width="32%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshankanwar&theme=dracula&utcOffset=5.5" width="32%" alt="Productive Time" />
 </div>
 
 <div align="center">

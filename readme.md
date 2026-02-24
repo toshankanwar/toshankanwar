@@ -189,7 +189,9 @@ email: contact@toshankanwar.in
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=toshankanwar&theme=dracula&column=-1&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="trophy graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshankanwar&theme=dracula" width="32%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshankanwar&theme=dracula" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshankanwar&theme=dracula" width="32%" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -279,16 +281,18 @@ email: contact@toshankanwar.in
   </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshankanwar&theme=dracula" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshankanwar&theme=dracula" width="100%" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshankanwar&theme=dracula" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshankanwar&theme=dracula" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshankanwar&theme=dracula&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshankanwar&theme=dracula" width="32%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshankanwar&theme=dracula" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshankanwar&theme=dracula&utcOffset=5.5" width="32%" alt="Productive Time" />
 </div>
 
 <div align="center">

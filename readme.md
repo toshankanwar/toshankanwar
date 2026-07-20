@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%93+Final+Year+B.Tech+%40+IIIT+Naya+Raipur;%F0%9F%A7%A0+Data+Science+%26+Artificial+Intelligence;%F0%9F%9A%80+Building+the+Future+with+Code+%26+AI;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%93+B.Tech+Graduate+from+%40+IIIT+Naya+Raipur;%F0%9F%A7%A0+Data+Science+%26+Artificial+Intelligence;%F0%9F%9A%80+Building+the+Future+with+Code+%26+AI;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
   </a>
 </div>
 

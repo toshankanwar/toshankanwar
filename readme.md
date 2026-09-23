@@ -1,625 +1,426 @@
-<!-- ANIMATED HEADER BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:BD93F9,100:FF79C6&height=220&section=header&text=Toshan%20Kanwar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descSize=16&descAlignY=52&descColor=ffffff" width="100%" />
-
-<!-- TYPING ANIMATION -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=%F0%9F%8E%93+B.Tech+Graduate+from+%40+IIIT+Naya+Raipur;%F0%9F%A7%A0+Data+Science+%26+Artificial+Intelligence;%F0%9F%9A%80+Building+the+Future+with+Code+%26+AI;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Solutions" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<!-- QUICK CONNECT BAR -->
+````md
+<!-- ========================================================= -->
+<!--                    TOSHAN KANWAR                         -->
+<!--               GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <a href="https://toshankanwar.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-toshankanwar.in-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=TOSHAN%20KANWAR&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20FULL%20STACK%20%7C%20AI&descSize=18&descAlignY=55&animation=fadeIn"/>
 
-  <a href="mailto:contact@toshankanwar.in">
-    <img src="https://img.shields.io/badge/📧_Email-contact%40toshankanwar.in-FF79C6?style=for-the-badge" alt="Email" />
-  </a>
+<br>
 
-  <a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://toshankanwar.in">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://github.com/toshankanwar">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:contact@toshankanwar.in">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=toshankanwar&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS" alt="Profile Views" />
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=750&lines=Building+with+Code+%26+AI;Full+Stack+Developer;Data+Science+%26+AI+Graduate;Turning+Ideas+into+Real+Products;Always+Learning.+Always+Building." />
 
 </div>
 
-<br/>
+---
 
-<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+### Hey! I'm Toshan 👋
 
-```yaml
-name: Toshan Kanwar
-location: India 🇮🇳
+I'm a **Data Science & Artificial Intelligence graduate from IIIT Naya Raipur** who enjoys building real-world software products.
 
-education:
-  university: IIIT Naya Raipur
-  degree: B.Tech in Data Science & AI
-  year: Graduated (2026)
+My main interests are:
 
-currently_working_on:
-  - Full Stack Web Applications
-  - Machine Learning & Deep Learning Models
-  - Android App Development
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Visualization
+- 📱 Cross-Platform Applications
+- ☁️ Cloud, Deployment & DevOps
+- 🔐 APIs, Authentication & Backend Systems
 
-currently_learning:
-  - Advanced Deep Learning Architectures
-  - Cloud Computing & DevOps
-  - System Design
+I like taking an idea from **concept → development → deployment**.
 
-collaboration: Open to collaborate on AI/ML,
-              Web Dev & Open Source projects
+<br>
 
-portfolio: https://toshankanwar.in
-email: contact@toshankanwar.in
+### Currently Exploring
+
+```text
+AI / ML             █████████████████░░░
+Full Stack          ███████████████████░
+Cloud & DevOps      ███████████████░░░░░
+System Design       █████████████░░░░░░░
+````
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=toshankanwar&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 What I Build
+
+<div align="center">
+
+|  🌐 Web |  🤖 AI / ML  |    📊 Data    |  📱 Apps  |
+| :-----: | :----------: | :-----------: | :-------: |
+| Next.js |    Python    |     Pandas    |  Flutter  |
+|  React  |  TensorFlow  |     NumPy     |  Android  |
+| Node.js | Scikit-Learn | Visualization |  Firebase |
+| Express |      NLP     | Data Analysis | REST APIs |
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,php&theme=dark"/>
+
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,threejs&theme=dark"/>
+
+</div>
+
+### ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,nginx&theme=dark"/>
+
+</div>
+
+### 🗄️ Database & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,cloudflare,vercel&theme=dark"/>
+
+</div>
+
+### 🤖 AI / Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+</div>
+
+### 🔧 Tools & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,npm,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🧁 Toshan Bakery
+
+<a href="https://bakery.toshankanwar.website">
+
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+A complete online bakery platform with product management,
+shopping cart, checkout, order management and admin analytics.
+
+**Next.js · Firebase · Node.js · Razorpay**
+
+<br>
+
+---
+
+### ❤️ Heart Failure Prediction
+
+<a href="https://heart-failure.toshankanwar.website">
+
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-E74C3C?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+Machine-learning powered application for predicting heart failure risk
+through an interactive web interface.
+
+**Python · Flask · React · Machine Learning**
+
+<br>
+
+---
+
+### 📈 Indian Market Visualization
+
+<a href="https://indianbubble.toshankanwar.in">
+
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-20BEFF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+Interactive visualization platform for Indian stock-market data,
+market activity and financial indicators.
+
+**Next.js · APIs · MongoDB · Cloudflare Workers**
+
+<br>
+
+---
+
+### 🧠 Automated Answer Assessment
+
+AI-based answer evaluation system combining OCR with
+semantic similarity and NLP techniques.
+
+**Python · OCR · BERT · SBERT · NLP**
+
+<br>
+
+---
+
+### ✍️ Poetry Platform
+
+Modern poetry platform featuring dynamic content,
+comments and administrative management.
+
+**Next.js · Firebase · JavaScript**
+
+<br>
+
+---
+
+### 🔗 Link-in-Bio Platform
+
+A Linktree-style platform with dynamic profiles,
+custom links and username-based routing.
+
+**Next.js · Node.js · Database**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/toshankanwar?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="./profile/top-languages.svg" width="49%" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./profile/metrics.svg" width="100%" alt="GitHub Metrics"/>
+
+</div>
+
+---
+
+# 📈 My GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/toshankanwar">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toshankanwar&bg_color=0d1117&color=BD93F9&line=FF79C6&point=FFFFFF&area=true&hide_border=true&custom_title=Toshan's%20Contribution%20Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   🚀 Build more production-ready applications           │
+│                                                          │
+│   🤖 Explore modern AI & LLM technologies                │
+│                                                          │
+│   ☁️ Improve Cloud & DevOps skills                       │
+│                                                          │
+│   🌐 Contribute more to Open Source                      │
+│                                                          │
+│   📚 Keep learning and building every day                │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-<br clear="right"/>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- WHAT I DO -->
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> What I Do
+# ⚡ Quick Facts
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80" /><br/>
-<b>🌐 Web Development</b><br/>
-<sub>React • Next.js • Node.js<br/>Django • Flask • Express</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" /><br/>
-<b>📱 App Development</b><br/>
-<sub>Android • Kotlin<br/>Android Studio • Gradle</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="80" /><br/>
-<b>🤖 AI / ML / DL</b><br/>
-<sub>TensorFlow • NumPy<br/>Scikit-learn • Pandas</sub>
-</td>
-
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" /><br/>
-<b>📊 Data Science</b><br/>
-<sub>EDA • Visualization<br/>Jupyter • Kaggle</sub>
-</td>
-
-</tr>
-</table>
+|                  |                              |
+| ---------------- | ---------------------------- |
+| 🎓 Education     | B.Tech — Data Science & AI   |
+| 🏫 University    | IIIT Naya Raipur             |
+| 💻 Primary Focus | Full-Stack Development       |
+| 🤖 AI Focus      | Machine Learning / NLP       |
+| 🌐 Frontend      | Next.js / React              |
+| ⚙️ Backend       | Node.js / Flask              |
+| 🗄️ Database     | Firebase / MongoDB           |
+| 📱 Mobile        | Flutter / Android            |
+| ☁️ Deployment    | Docker / Cloudflare / Vercel |
+| 🧩 Approach      | Build → Learn → Improve      |
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- TECH STACK -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,php,go&theme=dark" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,threejs&theme=dark" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,nginx,php&theme=dark" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase&theme=dark" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>🧠 AI / ML / Data Science</b></summary>
-
-<br/>
+# 🌐 Connect With Me
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
-
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
-
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" />
-
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
-
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="48" />
-
-</div>
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle&theme=dark" />
-
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="48" />
-
-</div>
-
-</details>
-
-<details open>
-<summary><b>🔧 DevTools & Platforms</b></summary>
-
-<br/>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,raspberrypi,npm,markdown&theme=dark" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>🎨 Design & Creative</b></summary>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=blender,photoshop&theme=dark" />
-
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48" />
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ====================================================== -->
-
-<!-- GITHUB ANALYTICS -->
-
-<!-- ====================================================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<!-- GitHub Statistics -->
-
-<div align="center">
-
-  <a href="https://github.com/toshankanwar">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=toshankanwar&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&ring_color=BD93F9"
-      height="180"
-      alt="GitHub Statistics"
-    />
-  </a>
-
-  <a href="https://github.com/toshankanwar">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshankanwar&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- GITHUB STREAK -->
-
-<div align="center">
-
-  <a href="https://github.com/toshankanwar">
-    <img
-      src="https://streak-stats.demolab.com/?user=toshankanwar&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=F8F8F2&dates=8B8B8B"
-      height="180"
-      alt="GitHub Streak"
-    />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- GITHUB TROPHIES -->
-
-<div align="center">
-
-<img
- src="https://github-profile-trophy.vercel.app/?username=toshankanwar&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
- width="100%"
- alt="GitHub Profile Trophies"
-/>
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION ACTIVITY -->
-
-<div align="center">
-
-<img
- src="https://github-readme-activity-graph.vercel.app/graph?username=toshankanwar&bg_color=0D1117&color=BD93F9&line=FF79C6&point=F8F8F2&area=true&hide_border=true&radius=16"
- width="100%"
- alt="GitHub Contribution Activity"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ====================================================== -->
-
-<!-- FEATURED PROJECTS -->
-
-<!-- ====================================================== -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/toshankanwar?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/🔗_View_All_Repositories-6C63FF?style=for-the-badge"
-      alt="View All Repositories"
-    />
-  </a>
-
-  <a href="https://toshankanwar.in" target="_blank">
-    <img
-      src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF79C6?style=for-the-badge"
-      alt="Visit Portfolio"
-    />
-  </a>
-
-</div>
-
-<br/>
-
-<!-- PROJECT 1 -->
-
-<div align="center">
-
-<a href="https://github.com/toshankanwar/Project-X">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=Project-X&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Project-X"
-/>
-
+<a href="https://toshankanwar.in">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<!-- PROJECT 2 -->
-
-<a href="https://github.com/toshankanwar/Indian-Market-Bubbles">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=Indian-Market-Bubbles&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Indian Market Bubbles"
-/>
-
-</a>
-
-</div>
-
-<br/>
-
-<!-- PROJECT 3 -->
-
-<div align="center">
-
-<a href="https://github.com/toshankanwar/poetry-website">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=poetry-website&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Poetry Website"
-/>
-
-</a>
-
-<!-- PROJECT 4 -->
-
-<a href="https://github.com/toshankanwar/Resume-Ranking-System">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=Resume-Ranking-System&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Resume Ranking System"
-/>
-
-</a>
-
-</div>
-
-<br/>
-
-<!-- PROJECT 5 -->
-
-<div align="center">
-
-<a href="https://github.com/toshankanwar/Stock-Etf-Broking-Groww">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=Stock-Etf-Broking-Groww&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Stock ETF Broking Groww"
-/>
-
-</a>
-
-<!-- PROJECT 6 -->
-
-<a href="https://github.com/toshankanwar/Toshan-Music">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=toshankanwar&repo=Toshan-Music&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2"
-width="48%"
-alt="Toshan Music"
-/>
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/toshankanwar?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/🚀_Explore_More_Projects-6C63FF?style=for-the-badge"
-      alt="Explore More Projects"
-    />
-  </a>
-
-</div>
-
-<br/>
-
-> 💡 **Tip:** Check out my [portfolio](https://toshankanwar.in) for a complete showcase of my work, projects, and experience!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- QUICK FACTS -->
-
-## ⚡ Quick Facts
-
-<div align="center">
-
-<table>
-
-<tr>
-<td>🔭 Currently working on</td>
-<td><b>Full Stack AI-powered Applications</b></td>
-</tr>
-
-<tr>
-<td>🌱 Currently learning</td>
-<td><b>LLMs, LangChain, Cloud Architecture</b></td>
-</tr>
-
-<tr>
-<td>👯 Looking to collaborate on</td>
-<td><b>Open Source & AI/ML Projects</b></td>
-</tr>
-
-<tr>
-<td>💬 Ask me about</td>
-<td><b>React, Python, TensorFlow, Node.js, Django</b></td>
-</tr>
-
-<tr>
-<td>📫 How to reach me</td>
-<td><b><a href="mailto:contact@toshankanwar.in">contact@toshankanwar.in</a></b></td>
-</tr>
-
-<tr>
-<td>🌐 Portfolio</td>
-<td><b><a href="https://toshankanwar.in">toshankanwar.in</a></b></td>
-</tr>
-
-<tr>
-<td>⚡ Fun fact</td>
-<td><b>I debug with <code>print()</code> statements and I'm not ashamed 😄</b></td>
-</tr>
-
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- ====================================================== -->
-
-<!-- CONTRIBUTION METRICS -->
-
-<!-- ====================================================== -->
-
-## 📈 Contribution Metrics
-
-<div align="center">
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg"
-/>
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg"
-/>
-
-<img
- alt="Snake Animation"
- src="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg"
- width="100%"
-/>
-
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- CONNECT WITH ME -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
-
-<div align="center">
-
-<a href="https://toshankanwar.in" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-toshankanwar.in-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:contact@toshankanwar.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/1113815082514792468" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<a href="https://www.youtube.com/@ToshanKanwar2005">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@ToshanKanwar2005" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<a href="https://discord.com/users/1113815082514792468">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/toshankanwar2003" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-</a>
-
-<a href="https://www.facebook.com/toshan.kanwar.73" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<a href="https://www.hackerrank.com/profile/toshankanwar2003">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- RANDOM DEV QUOTE -->
+# 💭 Developer Philosophy
 
 <div align="center">
 
-<img
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"
-alt="Random Dev Quote"
-width="70%"
-/>
+> **"Don't just learn technology. Build something with it."**
+
+<br>
+
+**Idea → Code → Test → Deploy → Improve → Repeat 🔁**
 
 </div>
 
-<br/>
-
-<!-- SUPPORT -->
+---
 
 <div align="center">
 
-<h3>💖 If you like my work, consider giving a ⭐ to my repos!</h3>
+### ⭐ If you find my projects useful, consider giving them a star!
 
-<p>
+<br>
 
-<img
-src="https://img.shields.io/github/followers/toshankanwar?label=Followers&style=social"
-alt="GitHub Followers"
-/>
+<a href="https://github.com/toshankanwar?tab=repositories">
 
-<img
-src="https://img.shields.io/github/stars/toshankanwar?label=Stars&style=social"
-alt="GitHub Stars"
-/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 
-</p>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=toshankanwar&style=flat-square&color=6C63FF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+<br>
 
-<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:BD93F9,100:FF79C6&height=120&section=footer" width="100%" />
+<!-- ========================================================= -->
+
+<!--                     END OF README                         -->
+
+<!-- ========================================================= -->
+
+```
+```

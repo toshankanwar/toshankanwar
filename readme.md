@@ -37,7 +37,7 @@ location: India 🇮🇳
 education:
   university: IIIT Naya Raipur
   degree: B.Tech in Data Science & AI
-  year: Final Year (2026)
+  year: Graduated (2026)
   
 currently_working_on: 
   - Full Stack Web Applications

@@ -77,4 +77,13 @@ jobs:
 
           git diff --cached --quiet || git commit -m "chore: update GitHub profile"
 
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            if git push; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+            sleep 5
+          done

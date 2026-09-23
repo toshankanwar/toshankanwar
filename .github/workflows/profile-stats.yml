@@ -59,6 +59,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: profile/metrics.svg
+          output_action: none
 
           base: header, activity, community, repositories, metadata
 

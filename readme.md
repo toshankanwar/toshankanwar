@@ -1,9 +1,48 @@
-````md
-## 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                    TOSHAN KANWAR                         -->
+<!--               GITHUB PROFILE README                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Toshan%20Kanwar&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=gradient" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Graduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Real-World+Software" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://toshankanwar.in">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/toshankanwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contact@toshankanwar.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=toshankanwar&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%" valign="top">
+
+<td width="58%" valign="top">
 
 ### Hey! I'm Toshan 👋
 
@@ -16,7 +55,9 @@ I'm a **Data Science & Artificial Intelligence graduate from IIIT Naya Raipur** 
 - ☁️ Cloud, Deployment & DevOps
 - 🔐 APIs, Authentication & Backend Systems
 
-I enjoy taking an idea from **concept → development → deployment**.
+I enjoy taking an idea from:
+
+**Concept → Development → Deployment → Improvement**
 
 ### 🚀 Currently Exploring
 
@@ -29,19 +70,18 @@ I enjoy taking an idea from **concept → development → deployment**.
 
 </td>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=toshankanwar&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,firebase,mongodb,docker,linux&theme=dark" width="360"/>
 
 </td>
+
 </tr>
 </table>
-```
-
 
 ---
 
@@ -49,12 +89,52 @@ I enjoy taking an idea from **concept → development → deployment**.
 
 <div align="center">
 
-|  🌐 Web |  🤖 AI / ML  |    📊 Data    |  📱 Apps  |
-| :-----: | :----------: | :-----------: | :-------: |
-| Next.js |    Python    |     Pandas    |  Flutter  |
-|  React  |  TensorFlow  |     NumPy     |  Android  |
-| Node.js | Scikit-Learn | Visualization |  Firebase |
-| Express |      NLP     | Data Analysis | REST APIs |
+<table>
+<tr>
+<th>🌐 Web</th>
+<th>🤖 AI / ML</th>
+<th>📊 Data</th>
+<th>📱 Apps</th>
+</tr>
+
+<tr>
+<td align="center">
+
+Next.js<br>
+React<br>
+Node.js<br>
+Express
+
+</td>
+
+<td align="center">
+
+Python<br>
+TensorFlow<br>
+Scikit-Learn<br>
+NLP
+
+</td>
+
+<td align="center">
+
+Pandas<br>
+NumPy<br>
+Visualization<br>
+Data Analysis
+
+</td>
+
+<td align="center">
+
+Flutter<br>
+Android<br>
+Firebase<br>
+REST APIs
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -124,7 +204,7 @@ I enjoy taking an idea from **concept → development → deployment**.
 
 <div align="center">
 
-### 🧁 Toshan Bakery
+## 🧁 Toshan Bakery
 
 <a href="https://bakery.toshankanwar.website">
 
@@ -139,11 +219,11 @@ shopping cart, checkout, order management and admin analytics.
 
 **Next.js · Firebase · Node.js · Razorpay**
 
-<br>
+<br><br>
 
 ---
 
-### ❤️ Heart Failure Prediction
+## ❤️ Heart Failure Prediction
 
 <a href="https://heart-failure.toshankanwar.website">
 
@@ -158,11 +238,11 @@ through an interactive web interface.
 
 **Python · Flask · React · Machine Learning**
 
-<br>
+<br><br>
 
 ---
 
-### 📈 Indian Market Visualization
+## 📈 Indian Market Visualization
 
 <a href="https://indianbubble.toshankanwar.in">
 
@@ -177,33 +257,33 @@ market activity and financial indicators.
 
 **Next.js · APIs · MongoDB · Cloudflare Workers**
 
-<br>
+<br><br>
 
 ---
 
-### 🧠 Automated Answer Assessment
+## 🧠 Automated Answer Assessment
 
-AI-based answer evaluation system combining OCR with
+AI-based answer evaluation system combining OCR,
 semantic similarity and NLP techniques.
 
 **Python · OCR · BERT · SBERT · NLP**
 
-<br>
+<br><br>
 
 ---
 
-### ✍️ Poetry Platform
+## ✍️ Poetry Platform
 
 Modern poetry platform featuring dynamic content,
 comments and administrative management.
 
 **Next.js · Firebase · JavaScript**
 
-<br>
+<br><br>
 
 ---
 
-### 🔗 Link-in-Bio Platform
+## 🔗 Link-in-Bio Platform
 
 A Linktree-style platform with dynamic profiles,
 custom links and username-based routing.
@@ -251,7 +331,7 @@ custom links and username-based routing.
 
 <a href="https://github.com/toshankanwar">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toshankanwar&bg_color=0d1117&color=BD93F9&line=FF79C6&point=FFFFFF&area=true&hide_border=true&custom_title=Toshan's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toshankanwar&bg_color=0d1117&color=BD93F9&line=FF79C6&point=FFFFFF&area=true&hide_border=true&custom_title=Toshan%27s%20Contribution%20Graph" width="100%" alt="GitHub Activity Graph"/>
 
 </a>
 
@@ -263,7 +343,15 @@ custom links and username-based routing.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/snake.svg" width="100%" alt="Contribution Snake"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/toshankanwar/toshankanwar/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</picture>
 
 </div>
 
@@ -273,21 +361,33 @@ custom links and username-based routing.
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   🚀 Build more production-ready applications           │
-│                                                          │
-│   🤖 Explore modern AI & LLM technologies                │
-│                                                          │
-│   ☁️ Improve Cloud & DevOps skills                       │
-│                                                          │
-│   🌐 Contribute more to Open Source                      │
-│                                                          │
-│   📚 Keep learning and building every day                │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+<table>
+<tr>
+<td align="center">🚀</td>
+<td><b>Production Development</b><br>Build more real-world applications</td>
+</tr>
+
+<tr>
+<td align="center">🤖</td>
+<td><b>Artificial Intelligence</b><br>Explore modern AI & LLM technologies</td>
+</tr>
+
+<tr>
+<td align="center">☁️</td>
+<td><b>Cloud & DevOps</b><br>Improve deployment and infrastructure skills</td>
+</tr>
+
+<tr>
+<td align="center">🌐</td>
+<td><b>Open Source</b><br>Contribute to more open-source projects</td>
+</tr>
+
+<tr>
+<td align="center">📚</td>
+<td><b>Continuous Learning</b><br>Keep learning and building every day</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -297,18 +397,18 @@ custom links and username-based routing.
 
 <div align="center">
 
-|                  |                              |
-| ---------------- | ---------------------------- |
-| 🎓 Education     | B.Tech — Data Science & AI   |
-| 🏫 University    | IIIT Naya Raipur             |
-| 💻 Primary Focus | Full-Stack Development       |
-| 🤖 AI Focus      | Machine Learning / NLP       |
-| 🌐 Frontend      | Next.js / React              |
-| ⚙️ Backend       | Node.js / Flask              |
-| 🗄️ Database     | Firebase / MongoDB           |
-| 📱 Mobile        | Flutter / Android            |
-| ☁️ Deployment    | Docker / Cloudflare / Vercel |
-| 🧩 Approach      | Build → Learn → Improve      |
+| Category | Details |
+|---|---|
+| 🎓 Education | B.Tech — Data Science & AI |
+| 🏫 University | IIIT Naya Raipur |
+| 💻 Primary Focus | Full-Stack Development |
+| 🤖 AI Focus | Machine Learning / NLP |
+| 🌐 Frontend | Next.js / React |
+| ⚙️ Backend | Node.js / Flask |
+| 🗄️ Database | Firebase / MongoDB |
+| 📱 Mobile | Flutter / Android |
+| ☁️ Deployment | Docker / Cloudflare / Vercel |
+| 🧩 Approach | Build → Learn → Improve |
 
 </div>
 
@@ -350,7 +450,7 @@ custom links and username-based routing.
 
 <div align="center">
 
-> **"Don't just learn technology. Build something with it."**
+### "Don't just learn technology. Build something with it."
 
 <br>
 
@@ -380,13 +480,8 @@ custom links and username-based routing.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20" width="100%"/>
 
 <!-- ========================================================= -->
-
 <!--                     END OF README                         -->
-
 <!-- ========================================================= -->
-
-```
-```

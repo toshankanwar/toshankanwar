@@ -1,36 +1,5 @@
 ````md
-<!-- ========================================================= -->
-<!--                    TOSHAN KANWAR                         -->
-<!--               GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=TOSHAN%20KANWAR&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=DATA%20SCIENCE%20%7C%20FULL%20STACK%20%7C%20AI&descSize=18&descAlignY=55&animation=fadeIn"/>
-
-<br>
-
-<a href="https://toshankanwar.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://github.com/toshankanwar">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/toshan-kanwar-4683a1349/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:contact@toshankanwar.in">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=750&lines=Building+with+Code+%26+AI;Full+Stack+Developer;Data+Science+%26+AI+Graduate;Turning+Ideas+into+Real+Products;Always+Learning.+Always+Building." />
-
-</div>
-
----
-
+```markdown
 ## 👨‍💻 About Me
 
 <table>
@@ -41,8 +10,6 @@
 
 I'm a **Data Science & Artificial Intelligence graduate from IIIT Naya Raipur** who enjoys building real-world software products.
 
-My main interests are:
-
 - 🌐 Full-Stack Web Development
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science & Visualization
@@ -50,18 +17,16 @@ My main interests are:
 - ☁️ Cloud, Deployment & DevOps
 - 🔐 APIs, Authentication & Backend Systems
 
-I like taking an idea from **concept → development → deployment**.
+I enjoy taking an idea from **concept → development → deployment**.
 
-<br>
+### 🚀 Currently Exploring
 
-### Currently Exploring
-
-```text
-AI / ML             █████████████████░░░
-Full Stack          ███████████████████░
-Cloud & DevOps      ███████████████░░░░░
-System Design       █████████████░░░░░░░
-````
+| Area | Focus |
+|---|---|
+| 🤖 AI / ML | Deep Learning & Modern AI |
+| 🌐 Full Stack | Next.js, React & Node.js |
+| ☁️ Cloud | Docker, Cloudflare & Deployment |
+| 🏗️ Architecture | APIs, System Design & Scalable Apps |
 
 </td>
 
@@ -76,6 +41,8 @@ System Design       █████████████░░░░░░░
 </td>
 </tr>
 </table>
+```
+
 
 ---
 
